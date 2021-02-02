@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">S4UI_RicardoCanales</string>
+    <string name="custom_title">Registro de Usuario</string>
+    <string name="activity_title">Tarea #4 Ricardo Canales</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellido1">Primer apellido:</string>
+    <string name="apellido2">Segundo apellido:</string>
+    <string name="genero">Género:</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="btn_enviar">Imprimir datos</string>
+</resources>
